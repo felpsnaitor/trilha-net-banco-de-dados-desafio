@@ -1,3 +1,15 @@
+# Resposta das  questões
+o Script esta na raiz do projeto com as resposta.
+o nome do arqivo é "Script de Resposta das questoes.sql"
+
+
+
+
+
+
+
+
+
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
 
